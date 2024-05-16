@@ -3,7 +3,3 @@
 Dit is Jill's boek.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```

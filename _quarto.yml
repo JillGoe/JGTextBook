@@ -4,7 +4,7 @@ project:
 
 book:
   title: "JGTestBook"
-  author: "Jill Goeman"
+  author: "Jill G"
   date: "16-5-2024"
   chapters:
     - index.qmd
