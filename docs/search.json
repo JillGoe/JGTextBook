@@ -14,7 +14,7 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "Hiiiii\n\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n&lt;3 capy\n\nFig 1. Random table\n\n\nCol1\nCol2\nCol3\n\n\n\n\n1\n-\n-\n\n\n-\n2\n-\n\n\n-\n-\n3\n\n\n\ncheck out bathing a capybara\n\n\n\nRadom capy\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Hiiiii\nAlso hiii to git, this is my book\n\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n&lt;3 capy\n\nFig 1. Random table\n\n\nCol1\nCol2\nCol3\n\n\n\n\n1\n-\n-\n\n\n-\n2\n-\n\n\n-\n-\n3\n\n\n\ncheck out bathing a capybara\n\n\n\nRadom capy\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
     ]
